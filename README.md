@@ -1,13 +1,22 @@
 # Multispectral Image Segmentation in Agriculture: A Comprehensive Study on Fusion Approaches
 
 
-## Dataset - Vargem Grande
+## Dataset #1 - Vargem Grande
 
 <p align="left">
   <img src="figures/overview.png" alt="Fig. 1">
   <br>
   <em></em>
 </p>
+
+## Dataset #2 - Vineyards (referred to as Vine in project folders)
+
+This dataset merges data from three distinct vineyard sources: Valdoeiro, Quinta de Baixo, and ESAC.
+
+It was first introduced in the following publication:
+
+[Multispectral vineyard segmentation: A deep learning comparison study](https://www.sciencedirect.com/science/article/abs/pii/S0168169922000990)
+
 
 To get the datasets, please send an e-email to tiagobarros@isr.uc.pt
 
